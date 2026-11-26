@@ -5,6 +5,7 @@ Financial transaction reconciliation is a critical process in banking and financ
 This project analyzes financial transactions to identify reconciliation exceptions, investigate their underlying patterns, and evaluate their financial and operational impact.
 
 The analysis focuses on four key business areas:
+
 • Category 1: Financial Transaction Reconciliation: Ledger vs. bank transaction matching and financial discrepancies.
 
 • Category 2: Exception Analysis: Amount variances, missing records, duplicate postings, settlement date differences, and currency inconsistencies.
